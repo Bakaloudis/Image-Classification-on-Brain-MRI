@@ -2,9 +2,9 @@
 
 🧠 Brain Tumor Detection using Convolutional Neural Networks
 
-Framework: TensorFlow / Keras
-Language: Python 3.11
-Environment: Jupyter Notebook
+- Framework: TensorFlow / Keras
+- Language: Python 3.11
+- Environment: Jupyter Notebook
 
 📖 Project Overview:
 
